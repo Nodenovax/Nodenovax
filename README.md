@@ -1,13 +1,8 @@
-# Haman Muraya
+# Node Nova
 
 **Senior Software Engineer in Test · Quality Engineering for backend & distributed systems**
 
 I build test architecture for systems where correctness matters: ledgers and payment flows, policy services, event pipelines, and ML services. That covers API and integration suites, contract tests, fault injection, regression coverage, and CI quality gates. Nine years across fintech, banking, insurance, and e-commerce designing those systems means I test them from the data model and failure modes outward.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamman--portfolio.vercel.app-1B1A17?style=flat-square)](https://hamman-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-haman--mur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haman-mur)
-[![Email](https://img.shields.io/badge/Email-hamanmuraya009%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:hamanmuraya009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MurayaSoftTouch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MurayaSoftTouch)
 
 ---
 
@@ -109,9 +104,3 @@ A Rust event-processing service focused on durable admission, safe concurrent pr
 ## AI and LLM quality
 
 I apply the same discipline to AI systems: LLM evaluation and benchmarking (rubric design, reviewer calibration, reproducible scoring), RLHF and supervised fine-tuning data workflows, adversarial testing and red-teaming of model behaviour, and review of AI-generated code for correctness and security.
-
----
-
-More on my work at [hamman-portfolio.vercel.app](https://hamman-portfolio.vercel.app/).
-
-Hiring for test automation, quality engineering, or backend reliability? [Let's talk on LinkedIn](https://linkedin.com/in/haman-mur) or [by email](mailto:hamanmuraya009@gmail.com).
